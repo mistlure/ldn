@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\LinkedIn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|e:\\projects\\linkedin\\linkedin\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|solutionrelative:linkedin\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|e:\\projects\\linkedin\\linkedin\\persistence\\tableinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|solutionrelative:linkedin\\persistence\\tableinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|e:\\projects\\linkedin\\linkedin\\infrastructure\\sql\\usersqldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|solutionrelative:linkedin\\infrastructure\\sql\\usersqldao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|e:\\projects\\linkedin\\linkedin\\persistence\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69AC24B-17DC-458D-A2FB-0398C3D770C0}|LinkedIn\\LinkedIn.csproj|solutionrelative:linkedin\\persistence\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSqlDao.cs",
+              "DocumentMoniker": "E:\\Projects\\LinkedIn\\LinkedIn\\Infrastructure\\Sql\\UserSqlDao.cs",
+              "RelativeDocumentMoniker": "LinkedIn\\Infrastructure\\Sql\\UserSqlDao.cs",
+              "ToolTip": "E:\\Projects\\LinkedIn\\LinkedIn\\Infrastructure\\Sql\\UserSqlDao.cs",
+              "RelativeToolTip": "LinkedIn\\Infrastructure\\Sql\\UserSqlDao.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvygAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:49:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqliteHelper.cs",
+              "DocumentMoniker": "E:\\Projects\\LinkedIn\\LinkedIn\\Persistence\\SqliteHelper.cs",
+              "RelativeDocumentMoniker": "LinkedIn\\Persistence\\SqliteHelper.cs",
+              "ToolTip": "E:\\Projects\\LinkedIn\\LinkedIn\\Persistence\\SqliteHelper.cs",
+              "RelativeToolTip": "LinkedIn\\Persistence\\SqliteHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:40:42.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\LinkedIn\\LinkedIn\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedIn\\Presentation\\Program.cs",
+              "ToolTip": "E:\\Projects\\LinkedIn\\LinkedIn\\Presentation\\Program.cs",
+              "RelativeToolTip": "LinkedIn\\Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:34:15.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableInitializer.cs",
+              "DocumentMoniker": "E:\\Projects\\LinkedIn\\LinkedIn\\Persistence\\TableInitializer.cs",
+              "RelativeDocumentMoniker": "LinkedIn\\Persistence\\TableInitializer.cs",
+              "ToolTip": "E:\\Projects\\LinkedIn\\LinkedIn\\Persistence\\TableInitializer.cs",
+              "RelativeToolTip": "LinkedIn\\Persistence\\TableInitializer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:29:38.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
